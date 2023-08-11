@@ -5,6 +5,10 @@
 // 5 check if the user won
 // 6 give the user their winnings
 // 7 play again
+//  parse float  string to float
+// for of loop with object.entries convert object to 2d array
+//...spread operator copies 
+
 const prompt = require("prompt-sync")();
 const ROWS = 3;
 const COLS = 3;
